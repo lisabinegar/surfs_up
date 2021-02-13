@@ -2,7 +2,7 @@
 
 ## Overview of climate analysis
 
-Our client, W. Avy, was interested in learning about temperature trends year-round before fully investing and committing to a surf shop in Oahu. The major question is whether an ice cream shop business will be profitable and sustainable all year. The assumption is that consistently warmer temperatures will drive customers to the surf shop, as would be expected in the summer months. Will it be warm enough in December for customers to continue to surf and frequent the surf shop? Our analysis focused on temperature data, comparing the months of December and June. [link to images]
+Our client, W. Avy, was interested in learning about temperature trends year-round before fully investing and committing to a surf shop in Oahu. The major question is whether an ice cream shop business will be profitable and sustainable all year. The assumption is that consistently warmer temperatures will drive customers to the surf shop, as would be expected in the summer months. Will it be warm enough in December for customers to continue to surf and frequent the surf shop? Our analysis focused on temperature data, comparing the months of December and June. [December_summary_statistics.png][]
 
 ## Results 
 
